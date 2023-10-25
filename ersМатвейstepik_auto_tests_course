@@ -1,0 +1,29 @@
+[33mcommit b1f90384fe82448b914d1be8624040b7fba95316[m[33m ([m[1;36mHEAD -> [m[1;32mbugFix[m[33m)[m
+Author: podbor16 <podbor250718@gmail.com>
+Date:   Wed Oct 25 11:30:11 2023 +0700
+
+    added a branch bugFix
+
+[33mcommit 4ba98aa06ac99f158657f3037ee442ab354be2d7[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/bugFix[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: podbor16 <podbor250718@gmail.com>
+Date:   Thu Oct 19 12:26:36 2023 +0700
+
+    modified README
+
+[33mcommit 3c791002ebf2b0e7d586bffed9bb66ebbfe05c67[m
+Author: podbor16 <podbor250718@gmail.com>
+Date:   Thu Oct 19 12:08:02 2023 +0700
+
+    Добавил файл с игрой Сапер
+
+[33mcommit 59084a18afe35c491c0fcf1b9dd31bd5a661e4d4[m
+Author: podbor16 <podbor250718@gmail.com>
+Date:   Thu Oct 19 12:00:30 2023 +0700
+
+    Изменил и добавил README
+
+[33mcommit f9d4be2da20fb80d46d99e1cae22d816d8ea7ac7[m
+Author: Matvey <116954513+podbor16@users.noreply.github.com>
+Date:   Thu Oct 19 11:49:48 2023 +0700
+
+    Initial commit
